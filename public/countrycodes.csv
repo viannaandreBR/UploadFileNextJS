@@ -1,0 +1,241 @@
+Country Name,ISO2,ISO3,E164,Phone Code,Time Zone in Capital
+Afghanistan,AF,AFG,93,93,Asia/Kabul
+Albania,AL,ALB,355,355,Europe/Tirane
+Algeria,DZ,DZA,213,213,Africa/Algiers
+American Samoa,AS,ASM,1,1-684,Pacific/Pago_Pago
+Andorra,AD,AND,376,376,Europe/Andorra
+Angola,AO,AGO,244,244,Africa/Lagos
+Anguilla,AI,AIA,1,1-264,America/Port_of_Spain
+Antarctica,AQ,ATA,672,672,Antarctica/Troll
+Antigua and Barbuda,AG,ATG,1,1-268,America/Antigua
+Argentina,AR,ARG,54,54,America/Argentina/Buenos_Aires
+Armenia,AM,ARM,374,374,Asia/Yerevan
+Aruba,AW,ABW,297,297,America/Curacao
+Australia,AU,AUS,61,61,Australia/Sydney
+Austria,AT,AUT,43,43,Europe/Vienna
+Azerbaijan,AZ,AZE,994,994,Asia/Baku
+Bahamas,BS,BHS,1,1-242,America/Nassau
+Bahrain,BH,BHR,973,973,Asia/Bahrain
+Bangladesh,BD,BGD,880,880,Asia/Dhaka
+Barbados,BB,BRB,1,1-246,America/Barbados
+Belarus,BY,BLR,375,375,Europe/Minsk
+Belgium,BE,BEL,32,32,Europe/Brussels
+Belize,BZ,BLZ,501,501,America/Belize
+Benin,BJ,BEN,229,229,Africa/Lagos
+Bermuda,BM,BMU,1,1-441,Atlantic/Bermuda
+Bhutan,BT,BTN,975,975,Asia/Thimphu
+Bolivia,BO,BOL,591,591,America/La_Paz
+Bosnia and Herzegovina,BA,BIH,387,387,Europe/Belgrade
+Botswana,BW,BWA,267,267,Africa/Maputo
+Brazil,BR,BRA,55,55,America/Sao_Paulo
+British Indian Ocean Territory,IO,IOT,246,246,Indian/Chagos
+British Virgin Islands,VG,VGB,1,1-284,America/Port_of_Spain
+Brunei,BN,BRN,673,673,Asia/Brunei
+Bulgaria,BG,BGR,359,359,Europe/Sofia
+Burkina Faso,BF,BFA,226,226,Africa/Abidjan
+Burundi,BI,BDI,257,257,Africa/Maputo
+Cambodia,KH,KHM,855,855,Asia/Phnom_Penh
+Cameroon,CM,CMR,237,237,Africa/Lagos
+Canada,CA,CAN,1,1,America/Toronto
+Cape Verde,CV,CPV,238,238,Atlantic/Cape_Verde
+Cayman Islands,KY,CYM,1,1-345,America/Cayman
+Central African Republic,CF,CAF,236,236,Africa/Lagos
+Chad,TD,TCD,235,235,Africa/Ndjamena
+Chile,CL,CHL,56,56,America/Santiago
+China,CN,CHN,86,86,Asia/Shanghai
+Christmas Island,CX,CXR,61,61,Indian/Christmas
+Cocos Islands,CC,CCK,61,61,Indian/Cocos
+Colombia,CO,COL,57,57,America/Bogota
+Comoros,KM,COM,269,269,Indian/Comoro
+Cook Islands,CK,COK,682,682,Pacific/Rarotonga
+Costa Rica,CR,CRI,506,506,America/Costa_Rica
+Croatia,HR,HRV,385,385,Europe/Belgrade
+Cuba,CU,CUB,53,53,America/Havana
+Curacao,CW,CUW,599,599,America/Curacao
+Cyprus,CY,CYP,357,357,Asia/Nicosia
+Czech Republic,CZ,CZE,420,420,Europe/Prague
+Democratic Republic of the Congo,CD,COD,243,243,Africa/Lagos
+Denmark,DK,DNK,45,45,Europe/Copenhagen
+Djibouti,DJ,DJI,253,253,Africa/Djibouti
+Dominica,DM,DMA,1,1-767,America/Port_of_Spain
+Dominican Republic,DO,DOM,1,"1-809, 1-829, 1-849",America/Santo_Domingo
+East Timor,TL,TLS,670,670,Asia/Dili
+Ecuador,EC,ECU,593,593,America/Guayaquil
+Egypt,EG,EGY,20,20,Africa/Cairo
+El Salvador,SV,SLV,503,503,America/El_Salvador
+Equatorial Guinea,GQ,GNQ,240,240,Africa/Lagos
+Eritrea,ER,ERI,291,291,Africa/Asmara
+Estonia,EE,EST,372,372,Europe/Tallinn
+Ethiopia,ET,ETH,251,251,Africa/Addis_Ababa
+Falkland Islands,FK,FLK,500,500,Atlantic/Stanley
+Faroe Islands,FO,FRO,298,298,Atlantic/Faroe
+Fiji,FJ,FJI,679,679,Pacific/Fiji
+Finland,FI,FIN,358,358,Europe/Helsinki
+France,FR,FRA,33,33,Europe/Paris
+French Polynesia,PF,PYF,689,689,Pacific/Tahiti
+Gabon,GA,GAB,241,241,Africa/Lagos
+Gambia,GM,GMB,220,220,Africa/Abidjan
+Georgia,GE,GEO,995,995,Asia/Tbilisi
+Germany,DE,DEU,49,49,Europe/Berlin
+Ghana,GH,GHA,233,233,Africa/Accra
+Gibraltar,GI,GIB,350,350,Europe/Gibraltar
+Greece,GR,GRC,30,30,Europe/Athens
+Greenland,GL,GRL,299,299,America/Godthab
+Grenada,GD,GRD,1,1-473,America/Port_of_Spain
+Guam,GU,GUM,1,1-671,Pacific/Guam
+Guatemala,GT,GTM,502,502,America/Guatemala
+Guernsey,GG,GGY,44,44-1481,Europe/London
+Guinea,GN,GIN,224,224,Africa/Abidjan
+Guinea-Bissau,GW,GNB,245,245,Africa/Bissau
+Guyana,GY,GUY,592,592,America/Guyana
+Haiti,HT,HTI,509,509,America/Port-au-Prince
+Honduras,HN,HND,504,504,America/Tegucigalpa
+Hong Kong,HK,HKG,852,852,Asia/Hong_Kong
+Hungary,HU,HUN,36,36,Europe/Budapest
+Iceland,IS,ISL,354,354,Atlantic/Reykjavik
+India,IN,IND,91,91,Asia/Kolkata
+Indonesia,ID,IDN,62,62,Asia/Jakarta
+Iran,IR,IRN,98,98,Asia/Tehran
+Iraq,IQ,IRQ,964,964,Asia/Baghdad
+Ireland,IE,IRL,353,353,Europe/Dublin
+Isle of Man,IM,IMN,44,44-1624,Europe/London
+Israel,IL,ISR,972,972,Asia/Jerusalem
+Italy,IT,ITA,39,39,Europe/Rome
+Ivory Coast,CI,CIV,225,225,Africa/Abidjan
+Jamaica,JM,JAM,1,1-876,America/Jamaica
+Japan,JP,JPN,81,81,Asia/Tokyo
+Jersey,JE,JEY,44,44-1534,Europe/London
+Jordan,JO,JOR,962,962,Asia/Amman
+Kazakhstan,KZ,KAZ,7,7,Asia/Almaty
+Kenya,KE,KEN,254,254,Africa/Nairobi
+Kiribati,KI,KIR,686,686,Pacific/Tarawa
+Kosovo,XK,XKX,383,383,Europe/Belgrade
+Kuwait,KW,KWT,965,965,Asia/Kuwait
+Kyrgyzstan,KG,KGZ,996,996,Asia/Bishkek
+Laos,LA,LAO,856,856,Asia/Vientiane
+Latvia,LV,LVA,371,371,Europe/Riga
+Lebanon,LB,LBN,961,961,Asia/Beirut
+Lesotho,LS,LSO,266,266,Africa/Johannesburg
+Liberia,LR,LBR,231,231,Africa/Monrovia
+Libya,LY,LBY,218,218,Africa/Tripoli
+Liechtenstein,LI,LIE,423,423,Europe/Zurich
+Lithuania,LT,LTU,370,370,Europe/Vilnius
+Luxembourg,LU,LUX,352,352,Europe/Luxembourg
+Macau,MO,MAC,853,853,Asia/Macau
+Macedonia,MK,MKD,389,389,Europe/Belgrade
+Madagascar,MG,MDG,261,261,Indian/Antananarivo
+Malawi,MW,MWI,265,265,Africa/Maputo
+Malaysia,MY,MYS,60,60,Asia/Kuala_Lumpur
+Maldives,MV,MDV,960,960,Indian/Maldives
+Mali,ML,MLI,223,223,Africa/Abidjan
+Malta,MT,MLT,356,356,Europe/Malta
+Marshall Islands,MH,MHL,692,692,Pacific/Majuro
+Mauritania,MR,MRT,222,222,Africa/Abidjan
+Mauritius,MU,MUS,230,230,Indian/Mauritius
+Mayotte,YT,MYT,262,262,Indian/Mayotte
+Mexico,MX,MEX,52,52,America/Mexico_City
+Micronesia,FM,FSM,691,691,Pacific/Pohnpei
+Moldova,MD,MDA,373,373,Europe/Chisinau
+Monaco,MC,MCO,377,377,Europe/Monaco
+Mongolia,MN,MNG,976,976,Asia/Ulaanbaatar
+Montenegro,ME,MNE,382,382,Europe/Belgrade
+Montserrat,MS,MSR,1,1-664,America/Port_of_Spain
+Morocco,MA,MAR,212,212,Africa/Casablanca
+Mozambique,MZ,MOZ,258,258,Africa/Maputo
+Myanmar,MM,MMR,95,95,Asia/Rangoon
+Namibia,NA,NAM,264,264,Africa/Windhoek
+Nauru,NR,NRU,674,674,Pacific/Nauru
+Nepal,NP,NPL,977,977,Asia/Kathmandu
+Netherlands,NL,NLD,31,31,Europe/Amsterdam
+Netherlands Antilles,AN,ANT,599,599,America/Curacao
+New Caledonia,NC,NCL,687,687,Pacific/Noumea
+New Zealand,NZ,NZL,64,64,Pacific/Auckland
+Nicaragua,NI,NIC,505,505,America/Managua
+Niger,NE,NER,227,227,Africa/Lagos
+Nigeria,NG,NGA,234,234,Africa/Lagos
+Niue,NU,NIU,683,683,Pacific/Niue
+North Korea,KP,PRK,850,850,Asia/Pyongyang
+Northern Mariana Islands,MP,MNP,1,1-670,Pacific/Saipan
+Norway,NO,NOR,47,47,Europe/Oslo
+Oman,OM,OMN,968,968,Asia/Muscat
+Pakistan,PK,PAK,92,92,Asia/Karachi
+Palau,PW,PLW,680,680,Pacific/Palau
+Palestine,PS,PSE,970,970,Asia/Hebron
+Panama,PA,PAN,507,507,America/Panama
+Papua New Guinea,PG,PNG,675,675,Pacific/Port_Moresby
+Paraguay,PY,PRY,595,595,America/Asuncion
+Peru,PE,PER,51,51,America/Lima
+Philippines,PH,PHL,63,63,Asia/Manila
+Pitcairn,PN,PCN,64,64,Pacific/Pitcairn
+Poland,PL,POL,48,48,Europe/Warsaw
+Portugal,PT,PRT,351,351,Europe/Lisbon
+Puerto Rico,PR,PRI,1,"1-787, 1-939",America/Puerto_Rico
+Qatar,QA,QAT,974,974,Asia/Qatar
+Republic of the Congo,CG,COG,242,242,Africa/Lagos
+Reunion,RE,REU,262,262,Indian/Reunion
+Romania,RO,ROU,40,40,Europe/Bucharest
+Russia,RU,RUS,7,7,Europe/Moscow
+Rwanda,RW,RWA,250,250,Africa/Maputo
+Saint Barthelemy,BL,BLM,590,590,America/Port_of_Spain
+Saint Helena,SH,SHN,290,290,Africa/Abidjan
+Saint Kitts and Nevis,KN,KNA,1,1-869,America/Port_of_Spain
+Saint Lucia,LC,LCA,1,1-758,America/Port_of_Spain
+Saint Martin,MF,MAF,1,590,America/Port_of_Spain
+Saint Pierre and Miquelon,PM,SPM,508,508,America/Miquelon
+Saint Vincent and the Grenadines,VC,VCT,1,1-784,America/Port_of_Spain
+Samoa,WS,WSM,685,685,Pacific/Apia
+San Marino,SM,SMR,378,378,Europe/Rome
+Sao Tome and Principe,ST,STP,239,239,Africa/Abidjan
+Saudi Arabia,SA,SAU,966,966,Asia/Riyadh
+Senegal,SN,SEN,221,221,Africa/Abidjan
+Serbia,RS,SRB,381,381,Europe/Belgrade
+Seychelles,SC,SYC,248,248,Indian/Mahe
+Sierra Leone,SL,SLE,232,232,Africa/Abidjan
+Singapore,SG,SGP,65,65,Asia/Singapore
+Sint Maarten,SX,SXM,1,1-721,America/Curacao
+Slovakia,SK,SVK,421,421,Europe/Prague
+Slovenia,SI,SVN,386,386,Europe/Belgrade
+Solomon Islands,SB,SLB,677,677,Pacific/Guadalcanal
+Somalia,SO,SOM,252,252,Africa/Mogadishu
+South Africa,ZA,ZAF,27,27,Africa/Johannesburg
+South Korea,KR,KOR,82,82,Asia/Seoul
+South Sudan,SS,SSD,211,211,Africa/Khartoum
+Spain,ES,ESP,34,34,Europe/Madrid
+Sri Lanka,LK,LKA,94,94,Asia/Colombo
+Sudan,SD,SDN,249,249,Africa/Khartoum
+Suriname,SR,SUR,597,597,America/Paramaribo
+Svalbard and Jan Mayen,SJ,SJM,47,47,Europe/Oslo
+Swaziland,SZ,SWZ,268,268,Africa/Johannesburg
+Sweden,SE,SWE,46,46,Europe/Stockholm
+Switzerland,CH,CHE,41,41,Europe/Zurich
+Syria,SY,SYR,963,963,Asia/Damascus
+Taiwan,TW,TWN,886,886,Asia/Taipei
+Tajikistan,TJ,TJK,992,992,Asia/Dushanbe
+Tanzania,TZ,TZA,255,255,Africa/Dar_es_Salaam
+Thailand,TH,THA,66,66,Asia/Bangkok
+Togo,TG,TGO,228,228,Africa/Abidjan
+Tokelau,TK,TKL,690,690,Pacific/Fakaofo
+Tonga,TO,TON,676,676,Pacific/Tongatapu
+Trinidad and Tobago,TT,TTO,1,1-868,America/Port_of_Spain
+Tunisia,TN,TUN,216,216,Africa/Tunis
+Turkey,TR,TUR,90,90,Europe/Istanbul
+Turkmenistan,TM,TKM,993,993,Asia/Ashgabat
+Turks and Caicos Islands,TC,TCA,1,1-649,America/Grand_Turk
+Tuvalu,TV,TUV,688,688,Pacific/Funafuti
+U.S. Virgin Islands,VI,VIR,1,1-340,America/Port_of_Spain
+Uganda,UG,UGA,256,256,Africa/Kampala
+Ukraine,UA,UKR,380,380,Europe/Kiev
+United Arab Emirates,AE,ARE,971,971,Asia/Dubai
+United Kingdom,GB,GBR,44,44,Europe/London
+United States,US,USA,1,1,America/New_York
+Uruguay,UY,URY,598,598,America/Montevideo
+Uzbekistan,UZ,UZB,998,998,Asia/Tashkent
+Vanuatu,VU,VUT,678,678,Pacific/Efate
+Vatican,VA,VAT,39,379,Europe/Rome
+Venezuela,VE,VEN,58,58,America/Caracas
+Vietnam,VN,VNM,84,84,Asia/Ho_Chi_Minh
+Wallis and Futuna,WF,WLF,681,681,Pacific/Wallis
+Western Sahara,EH,ESH,212,212,Africa/El_Aaiun
+Yemen,YE,YEM,967,967,Asia/Aden
+Zambia,ZM,ZMB,260,260,Africa/Maputo
+Zimbabwe,ZW,ZWE,263,263,Africa/Maputo

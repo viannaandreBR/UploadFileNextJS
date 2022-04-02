@@ -1,0 +1,5 @@
+VEE_MetaData on Thu Jan 27 07:49:44 GMT-05:00 2022
+Account Number, Invoice Number, Bill Type Id, Billing Month, Actual Bill Dtm, Invoice Amount, File name
+"12345","ACCTVEERB2C025-00001","1","JAN","20-JAN-22","0","4327769276.pdf"
+"12346","ACCTVEEBW042-00001","1","JAN","20-JAN-22","0","7769276432.pdf"
+"12347","ACCTVEEDISP051-00001","1","JAN","20-JAN-22","0","1169276432.pdf"

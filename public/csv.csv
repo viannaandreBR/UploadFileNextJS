@@ -1,0 +1,5 @@
+Nombre Producto Tarjeta,Categoría (Id),IVA (%),Unidad de Venta (UNID/KG),Conv Type X (UNID/KG),Conv Value X,Conv Type Y (UNID/KG),Conv Value Y,Parent Product Option Value (Id),Child Product Option Value (Id),Owner (Id),Unidad de Paso (step_unit),Precio,Refrigerado,Unidad de medida de dimensiones,Profundidad (depth),Ancho (width),Alto (height),Unidad de medida de peso,Peso,Peso minimo (min_weight_unit),Url de imagen,Nombre de atributo (attribute_name),Valor de atributo (attribute_value)
+Lentejas 1,,18,UNID,,,,,-501045,-500060,-2,3,300,,CENTIMETERS,1.5,1.6,1.17,KILOGRAMS,1.9,3,,Brand,Lentejita
+Lentejas 1,,18,UNID,,,,,-501045,-500060,-2,3,300,,CENTIMETERS,1.5,1.6,1.17,KILOGRAMS,1.9,3,,Brand,Lentejita
+Lentejas 2,-100014,18,UNID,,,,,-501045,-500044,-2,3,300,false,CENTIMETERS,1.5,1.6,1.17,KILOGRAMS,1.9,3,,Color,Marron
+Lentejas 2,-100014,18,UNID,,,,,-501045,-500060,-2,3,300,,CENTIMETERS,1.5,1.6,1.17,KILOGRAMS,1.9,3,,Brand,Lentejita
